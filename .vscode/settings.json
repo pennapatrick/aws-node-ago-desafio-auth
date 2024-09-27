@@ -1,0 +1,10 @@
+{  "eslint.validate": ["javascript"],
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.prettier": "explicit"
+  },
+  "editor.rulers": [80]
+} 
